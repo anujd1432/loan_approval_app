@@ -18,6 +18,7 @@ Logistic Regression. Built with Streamlit for an interactive and user-friendly e
 📋 Input Summary — Clean summary of all entered details
 📱 Responsive UI — Works on desktop and mobile browsers
 ⚡ Fast & Lightweight — Cached model loading for quick responses
+
 ---
 🧠 Model Details
 Property	Details
