@@ -5,6 +5,8 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 A machine learning web application that predicts loan approval status based on applicant details using 
 Logistic Regression. Built with Streamlit for an interactive and user-friendly experience.
+
+
 🔗 Live Demo: Click here to try the app
 ---https://loanapprovalapp-63saptmhgg2z8h4y9zsgnp.streamlit.app/
 📸 Preview
