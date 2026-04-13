@@ -10,7 +10,6 @@ Logistic Regression. Built with Streamlit for an interactive and user-friendly e
 🔗 Live Demo: Click here to try the app
 ---https://loanapprovalapp-63saptmhgg2z8h4y9zsgnp.streamlit.app/
 📸 Preview
-> Fill in applicant details → Click Predict → Get instant approval result with confidence score!
 ---
 ✨ Features
 🔍 Instant Prediction — Real-time loan approval prediction
