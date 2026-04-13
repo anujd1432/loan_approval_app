@@ -78,9 +78,10 @@ Go to share.streamlit.io
 Connect your GitHub repository
 Set main file as `app.py`
 Click Deploy 🎉
+
 ---
 📊 How It Works
-```
+```https://loanapprovalapp-63saptmhgg2z8h4y9zsgnp.streamlit.app/
 User Input → Feature Engineering → One-Hot Encoding → Logistic Regression → Prediction
 ```
 User fills in applicant details via the web form
@@ -89,7 +90,7 @@ Trained Logistic Regression model predicts the outcome
 Result is displayed with confidence probability
 ---
 🙋‍♂️ Author
-Amand — B.Tech Student | ML Enthusiast
+Anuj Dubey— B.Tech Aiml Student | ML Enthusiast
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ---
 📄 License
